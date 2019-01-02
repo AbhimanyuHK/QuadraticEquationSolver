@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: equation-solver
+Version: 1.0.0
+Summary: A Quadratic Equation Solver package
+Home-page: https://github.com/AbhimanyuHK/QuadraticEquationSolver
+Author: Abhimanyu HK
+Author-email: manyu1994@hotmail.com
+License: UNKNOWN
+Description: # Quadratic Equation 
+        
+        This is to solve quadratic equations.
+        
+        ### Scope
+        
+        * Solve quadratic equations.
+        
+        ### Setup and install 
+        
+        ``` pip install equation-solver ```
+        
+        
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

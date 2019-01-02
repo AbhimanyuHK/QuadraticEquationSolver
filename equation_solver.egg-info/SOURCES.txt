@@ -1,0 +1,10 @@
+README.md
+setup.py
+equation/__init__.py
+equation/quadratic_equation.py
+equation_solver.egg-info/PKG-INFO
+equation_solver.egg-info/SOURCES.txt
+equation_solver.egg-info/dependency_links.txt
+equation_solver.egg-info/top_level.txt
+test/__init__.py
+test/quadratic_quation_test.py

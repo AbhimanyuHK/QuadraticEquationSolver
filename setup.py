@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="QuadraticEquationSolver",
+    name="equation-solver",
     version="1.0.0",
     author="Abhimanyu HK",
     author_email="manyu1994@hotmail.com",

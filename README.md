@@ -8,7 +8,7 @@ This is to solve quadratic equations.
 
 ### Setup and install 
 
-``` pip install equation ```
+``` pip install equation-solver ```
 
 
 
